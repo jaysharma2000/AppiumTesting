@@ -90,7 +90,6 @@ public class MovieAppTest {
         	System.out.println("Movie Title Displayed, Title: " + titleElement.getText());
             System.out.println("Movie Description: " + discElement.getText());
             
-
             driver.quit();
 
         } catch (Exception e) {
